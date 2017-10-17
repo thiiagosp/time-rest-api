@@ -1,0 +1,32 @@
+[
+    {
+        "user": "pereira.thiago",
+        "date": "2017-10-16 08:02:00",
+        "type": "physical"
+    },
+    {
+        "user": "pereira.thiago",
+        "date": "2017-10-16 12:13:00",
+        "type": "physical"
+    },
+    {
+        "user": "pereira.thiago",
+        "date": "2017-10-16 13:42:00",
+        "type": "physical"
+    },
+    {
+        "user": "pereira.thiago",
+        "date": "2017-10-16 18:00:00",
+        "type": "physical"
+    },
+    {
+        "user": "belzebu.o",
+        "date": "2017-10-16 08:12:00",
+        "type": "physical"
+    },
+    {
+        "user": "belzebu.o",
+        "date": "2017-10-16 14:04:00",
+        "type": "physical"
+    }
+]

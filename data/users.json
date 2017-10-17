@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Thiago Pereira",
+        "login": "pereira.thiago",
+        "password": "123qwe",
+        "email": "thiago@thiago.com",
+        "last_login": null
+    },
+    {
+        "name": "Belzebu",
+        "login": "belzebu.o",
+        "password": "123qwe",
+        "email": "belzebu@belzebu.com",
+        "last_login": null
+    }
+]
