@@ -1,31 +1,37 @@
 [
     {
-        "user": "pereira.thiago",
+        "id": 1,
+		"user_id": 1,
         "date": "2017-10-16 08:02:00",
         "type": "physical"
     },
     {
-        "user": "pereira.thiago",
+        "id": 2,
+		"user_id": 1,
         "date": "2017-10-16 12:13:00",
         "type": "physical"
     },
     {
-        "user": "pereira.thiago",
+        "id": 3,
+		"user_id": 1,
         "date": "2017-10-16 13:42:00",
         "type": "physical"
     },
     {
-        "user": "pereira.thiago",
+        "id": 4,
+		"user_id": 3,
         "date": "2017-10-16 18:00:00",
         "type": "physical"
     },
     {
-        "user": "belzebu.o",
+        "id": 5,
+		"user_id": 2,
         "date": "2017-10-16 08:12:00",
         "type": "physical"
     },
     {
-        "user": "belzebu.o",
+        "id": 6,
+		"user_id": 2,
         "date": "2017-10-16 14:04:00",
         "type": "physical"
     }

@@ -1,0 +1,104 @@
+2018-03-09 15:11:48,105 - werkzeug - INFO -  * Running on http://10.50.20.104:8199/ (Press CTRL+C to quit)
+2018-03-09 15:11:48,105 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:11:48,172 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:11:48,172 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:12:18,327 - werkzeug - INFO -  * Detected change in '/home/thiago/Repositories/Thiago/time-rest-api/main.py', reloading
+2018-03-09 15:12:18,352 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:12:18,448 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:12:18,448 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:12:21,739 - werkzeug - INFO -  * Running on http://0.0.0.0:8199/ (Press CTRL+C to quit)
+2018-03-09 15:12:21,739 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:12:21,808 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:12:21,808 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:12:23,888 - lib.modules.times - ERROR - Exception: No option 'timesfile' in section: 'Conf'
+2018-03-09 15:12:23,888 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:12:23] "GET /times HTTP/1.1" 500 -
+2018-03-09 15:12:38,890 - werkzeug - INFO -  * Detected change in '/home/thiago/Repositories/Thiago/time-rest-api/lib/modules/times.py', reloading
+2018-03-09 15:12:38,904 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:12:38,996 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:12:38,997 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:12:41,483 - werkzeug - INFO -  * Running on http://0.0.0.0:8199/ (Press CTRL+C to quit)
+2018-03-09 15:12:41,483 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:12:41,550 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:12:41,550 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:12:43,160 - lib.modules.times - ERROR - Exception: 'name'
+2018-03-09 15:12:43,161 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:12:43] "GET /times HTTP/1.1" 500 -
+2018-03-09 15:13:23,649 - lib.modules.times - ERROR - Exception: 'name'
+2018-03-09 15:13:23,649 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:13:23] "GET /times HTTP/1.1" 500 -
+2018-03-09 15:13:28,791 - werkzeug - INFO -  * Detected change in '/home/thiago/Repositories/Thiago/time-rest-api/lib/modules/times.py', reloading
+2018-03-09 15:13:28,804 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:13:28,904 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:13:28,904 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:13:29,820 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:13:29] "GET /times HTTP/1.1" 200 -
+2018-03-09 15:38:43,569 - werkzeug - INFO -  * Detected change in '/home/thiago/Repositories/Thiago/time-rest-api/main.py', reloading
+2018-03-09 15:38:43,592 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:38:43,696 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:38:43,696 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:38:51,912 - werkzeug - INFO -  * Running on http://0.0.0.0:8199/ (Press CTRL+C to quit)
+2018-03-09 15:38:51,912 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:38:51,977 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:38:51,977 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:42:16,985 - werkzeug - INFO -  * Detected change in '/home/thiago/Repositories/Thiago/time-rest-api/lib/modules/times.py', reloading
+2018-03-09 15:42:17,013 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:42:17,097 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:42:17,097 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:42:37,188 - werkzeug - INFO -  * Running on http://0.0.0.0:8199/ (Press CTRL+C to quit)
+2018-03-09 15:42:37,189 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:42:37,254 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:42:37,254 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:42:42,276 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:42:42] "GET /times HTTP/1.1" 200 -
+2018-03-09 15:42:57,819 - lib.modules.times - ERROR - Exception: global name 't' is not defined
+2018-03-09 15:42:57,819 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:42:57] "GET /user/times/3 HTTP/1.1" 500 -
+2018-03-09 15:43:08,396 - werkzeug - INFO -  * Detected change in '/home/thiago/Repositories/Thiago/time-rest-api/lib/modules/times.py', reloading
+2018-03-09 15:43:08,423 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:43:08,527 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:43:08,527 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:43:17,242 - werkzeug - INFO -  * Running on http://0.0.0.0:8199/ (Press CTRL+C to quit)
+2018-03-09 15:43:17,242 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:43:17,307 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:43:17,308 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:43:19,857 - lib.modules.times - ERROR - Exception: global name 't' is not defined
+2018-03-09 15:43:19,857 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:43:19] "GET /user/times/3 HTTP/1.1" 500 -
+2018-03-09 15:43:29,366 - werkzeug - INFO -  * Detected change in '/home/thiago/Repositories/Thiago/time-rest-api/lib/modules/times.py', reloading
+2018-03-09 15:43:29,387 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:43:29,496 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:43:29,496 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:43:30,278 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:43:30] "GET /user/times/3 HTTP/1.1" 200 -
+2018-03-09 15:43:34,058 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:43:34] "GET /user/times/2 HTTP/1.1" 200 -
+2018-03-09 15:43:37,307 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:43:37] "GET /user/times/1 HTTP/1.1" 200 -
+2018-03-09 15:44:14,983 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:44:14] "GET /time/1 HTTP/1.1" 200 -
+2018-03-09 15:44:53,107 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:44:53] "POST /time/1 HTTP/1.1" 405 -
+2018-03-09 15:45:02,688 - lib.modules.times - ERROR - Exception: 
+2018-03-09 15:45:02,688 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:45:02] "POST /time HTTP/1.1" 422 -
+2018-03-09 15:45:54,206 - werkzeug - INFO -  * Detected change in '/home/thiago/Repositories/Thiago/time-rest-api/lib/modules/times.py', reloading
+2018-03-09 15:45:54,234 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:45:54,334 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:45:54,334 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:45:56,985 - werkzeug - INFO -  * Running on http://0.0.0.0:8199/ (Press CTRL+C to quit)
+2018-03-09 15:45:56,985 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:45:57,050 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:45:57,051 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:45:58,593 - lib.modules.times - ERROR - Exception: 'msisdn'
+2018-03-09 15:45:58,594 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:45:58] "POST /time HTTP/1.1" 500 -
+2018-03-09 15:46:15,142 - werkzeug - INFO -  * Detected change in '/home/thiago/Repositories/Thiago/time-rest-api/lib/modules/times.py', reloading
+2018-03-09 15:46:15,155 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:46:15,236 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:46:15,236 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:46:18,881 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:46:18] "POST /time HTTP/1.1" 201 -
+2018-03-09 15:46:24,986 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:46:24] "GET /times HTTP/1.1" 200 -
+2018-03-09 15:47:39,655 - werkzeug - INFO -  * Detected change in '/home/thiago/Repositories/Thiago/time-rest-api/lib/modules/times.py', reloading
+2018-03-09 15:47:39,682 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:47:39,774 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:47:39,774 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:48:17,252 - lib.modules.times - ERROR - Exception: local variable 'id' referenced before assignment
+2018-03-09 15:48:17,253 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:48:17] "POST /time HTTP/1.1" 500 -
+2018-03-09 15:48:37,064 - werkzeug - INFO -  * Detected change in '/home/thiago/Repositories/Thiago/time-rest-api/lib/modules/times.py', reloading
+2018-03-09 15:48:37,091 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:49:06,360 - werkzeug - INFO -  * Running on http://0.0.0.0:8199/ (Press CTRL+C to quit)
+2018-03-09 15:49:06,361 - werkzeug - INFO -  * Restarting with stat
+2018-03-09 15:49:06,426 - werkzeug - WARNING -  * Debugger is active!
+2018-03-09 15:49:06,426 - werkzeug - INFO -  * Debugger PIN: 327-104-837
+2018-03-09 15:49:09,768 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:49:09] "POST /time HTTP/1.1" 201 -
+2018-03-09 15:49:13,272 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:49:13] "GET /times HTTP/1.1" 200 -
+2018-03-09 15:49:55,065 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:49:55] "GET /times HTTP/1.1" 200 -
+2018-03-09 15:50:05,962 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:50:05] "POST /time HTTP/1.1" 201 -
+2018-03-09 15:50:08,772 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2018 15:50:08] "GET /times HTTP/1.1" 200 -

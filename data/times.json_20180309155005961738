@@ -1,0 +1,51 @@
+[
+	{
+        "date": "2018-02-02 14:04:00", 
+        "type": "physical", 
+        "user_id": 2, 
+        "id": 0
+    },
+    {
+        "date": "2017-10-16 08:02:00", 
+        "user_id": 1, 
+        "type": "physical", 
+        "id": 1
+    }, 
+    {
+        "date": "2017-10-16 12:13:00", 
+        "user_id": 1, 
+        "type": "physical", 
+        "id": 2
+    }, 
+    {
+        "date": "2017-10-16 13:42:00", 
+        "user_id": 1, 
+        "type": "physical", 
+        "id": 3
+    }, 
+    {
+        "date": "2017-10-16 18:00:00", 
+        "user_id": 3, 
+        "type": "physical", 
+        "id": 4
+    }, 
+    {
+        "date": "2017-10-16 08:12:00", 
+        "user_id": 2, 
+        "type": "physical", 
+        "id": 5
+    }, 
+    {
+        "date": "2017-10-16 14:04:00", 
+        "user_id": 2, 
+        "type": "physical", 
+        "id": 6
+    }, 
+    {
+        "date": "2018-01-22 13:04:00", 
+        "user_id": 2, 
+        "type": "physical", 
+        "id": 7
+    }
+    
+]
